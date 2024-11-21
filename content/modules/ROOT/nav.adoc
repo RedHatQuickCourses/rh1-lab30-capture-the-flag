@@ -1,7 +1,7 @@
-* xref:module-01.adoc[1. RPM Native Container]
-** xref:module-01.adoc#repositories[Repositories]
-** xref:module-01.adoc#software[Software]
+* xref:module-01.adoc[1. Red Hat Enterprise Linux Flags]
 
-* xref:module-02.adoc[2. GitHub Sourced Container]
-** xref:module-02.adoc#prerequisites[Install Prerequisites]
-** xref:module-02.adoc#container[Enable Container]
+* xref:module-02.adoc[2. Ansible Automation Platform Flags]
+
+* xref:module-03.adoc[3. OpenShift Flags]
+** xref:module-02.adoc#skillbased[Skill Based Tasks]
+** xref:module-02.adoc#flagbased[Hunt Based Tasks]
