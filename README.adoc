@@ -2,20 +2,22 @@
 
 === Abstract:
 
-* The challenge of securing your systems is a continuous battle.
-* In this session we will simulate working in an airgapped network.
+Join us for the inaugural Red Hat One Capture The Flag event, where you will compete in teams of 10 against your colleagues. 
 
-=== You will learn how to:
+This challenge will require you to collaborate on complex tasks designed to test your troubleshooting skills with Ansible, OpenShift, and Red Hat Enterprise Linux. 
 
-* track your current machine state
-* choose best practices for your environment
-* scope your risk model
-* use **Ansible core** to harden **Red Hat Enterprise Linux 9**
+The tasks are based on material from the RHCSA, RHCE, DO180/DO280 (OpenShift) course material. 
+
+These skills will not only test your technical skills, but also your teamwork and leadership skills. 
+
+Not only will you be competing against the other teams in the room, but you'll be competing against everyone who participates at Red Hat One. 
+
+Come take a crack at your chance at a grand prize.
 
 
 === Getting Started
 
-* Join us live at summit using our Red Hat Demo Platform or
+* Join us live at Red Hat One
 * Follow the Documentation to do this on your own linux machine inside of a VM.
 
 === How to Follow along with the lab.
