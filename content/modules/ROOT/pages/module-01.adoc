@@ -1,4 +1,49 @@
 = Red Hat Enterprise Linux Flags
 :prewrap!:
 
-To be filled in
+= RHSCA Review CTF Task List
+
+The following is a list of tasks to cover the Red Hat System Administrator Certification (RHSCA) in a Capture The Flag (CTF) event.
+
+== User and Group Management
+
+* Create and delete users and groups
+* Modify user attributes, such as home directories and shells
+* Manage group membership and permissions
+
+== File System Management
+
+* Create and manage file permissions and ownership
+* Create and manage file systems, including logical volumes
+* Mount and unmount file systems
+
+== Network Configuration
+
+* Configure network interfaces and IP addresses
+* Manage routing and hostname resolution
+* Configure firewall rules using firewalld
+
+== Service Management
+
+* Start, stop, and check the status of services
+* Enable and disable services for system startup
+* Configure services to start at boot time
+
+== Package Management
+
+* Install, update, and remove packages using yum or dnf
+* Query package information and dependencies
+* Manage package repositories
+
+== Security
+
+* Configure SELinux policies
+* Manage access controls using sudo
+* Configure and manage SSL/TLS certificates
+
+== Monitoring and Troubleshooting
+
+* Monitor system performance and resource usage
+* Troubleshoot system issues using logs and diagnostic tools
+* Analyze system and application performance using tools like top, ps, and netstat
+
