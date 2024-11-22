@@ -1,4 +1,30 @@
 = Ansible Automation Platform Flags
 :prewrap!:
 
-To be filled in
+== Ansible basics
+
+* Learn Ansible concepts, terminology, and components.
+
+== Ansible playbooks: 
+
+* Create and run Ansible playbooks to include using 
+** variables
+** conditionals
+** loops
+** handlers.
+
+== Ansible modules:
+
+* Use Ansible modules for various system administration tasks.
+
+== Ansible templates and vault: 
+
+* Create and use templates and protect sensitive data with Ansible Vault.
+
+= Ansible automation: 
+
+* Automate standard RHCSA tasks using Ansible modules.
+
+= Ansible tools: 
+
+* Use Automation content navigator to find and use Ansible modules and create inventories.
