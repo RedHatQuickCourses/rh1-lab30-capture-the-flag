@@ -16,11 +16,11 @@ Come take a crack at your chance at a grand prize.
 
 * We will cover topics for RHEL, Ansible & Openshift
 
-** https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-01.adoc
+** https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-01.adoc[RHEL Tasks]
 
-** https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-02.adoc
+** https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-02.adoc[Ansible Tasks]
 
-** https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-03.adoc
+** https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-03.adoc[Openshift Tasks]
 
 
 image::rhel-logo-black.jpg[rhel-logo-black,55%,55%]
