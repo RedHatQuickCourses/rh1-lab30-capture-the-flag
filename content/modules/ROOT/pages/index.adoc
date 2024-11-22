@@ -12,6 +12,17 @@ Not only will you be competing against the other teams in the room, but you’ll
 
 Come take a crack at your chance at a grand prize.
 
+== Tasks and Roles
+
+* We will cover topics for RHEL, Ansible & Openshift
+
+** https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-01.adoc
+
+** https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-02.adoc
+
+** https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-03.adoc
+
+
 image::rhel-logo-black.jpg[rhel-logo-black,55%,55%]
 
 == Variables
