@@ -5,7 +5,13 @@ For the OpenShift portion of the Red Hat One Capture The Flag we will have two t
 
 [#skillbased]
 == Skill Based Tasks
-. In this sections we will have tasks that are similar to the Red Hat Certified Specialist in Containers (EX188), Red Hat Certified OpenShift Administrator (EX280), and Red Hat Certified OpenShift Application Developer (EX288) exam.
+. In this sections we will have tasks that are similar to the Red Hat Certified Specialist in Containers (EX188), Red Hat Certified OpenShift Administrator (EX280), and Red Hat Certified OpenShift Application Developer (EX288) exam and they include:
+** Troubleshooting and Modifying Deployments
+** Modifying ConfigMaps and Secrets
+** Modifying Routes and Services
+** Exposing Deployments and Services
+** Reviewing Pod Logs
+** Reviewing Events
 
 . Each task will have multiple subtasks that will need to be completed for the entire task to be complete and for the flag to be captured.
 
@@ -14,3 +20,4 @@ For the OpenShift portion of the Red Hat One Capture The Flag we will have two t
 . In this section we will have your typical Capture The Flag tasks where you will be provided Flags that you will need to capture
 
 . The flags will range from easy to difficult tasks and some clever thinking to resolve the issues.
+** The skillset required to find these flags will extend beyond the skill set needed for the Skills Based tasks, but you will not need to modify any object to find any of the flags.
