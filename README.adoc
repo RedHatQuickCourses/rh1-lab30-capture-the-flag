@@ -29,7 +29,11 @@ Come take a crack at your chance at a grand prize.
 
 === Categories of Questions
 
+https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-01.adoc[Red Hat Enterprise Linux]
 
+https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-02.adoc[Ansible Automation Platform]
+
+https://github.com/RedHatQuickCourses/rh1-lab30-capture-the-flag/blob/main/content/modules/ROOT/pages/module-03.adoc[OpenShift]
 
 === Speaker Information:
 
