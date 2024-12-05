@@ -22,7 +22,7 @@ Come take a crack at your chance at a grand prize.
 * Identify your Skill Set (Platform, Ansible, Openship, Leadership) 
 * Grab Stickers / Wrist Band With Skill 
 * Join Team / Find table 
-* Go To red.ht/rh1ctf[CTF Login Page] on your laptop or mobile device
+* Go To https://red.ht/rh1ctf[CTF Login Page] on your laptop or mobile device
 * Go through first 5 quests on how to use CTFd
 * Bug reporting page
 * Get Started
