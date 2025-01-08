@@ -15,5 +15,7 @@ asciidoc:
     ssh_password: devops
     ssh_command: ssh someone@example.com
     page-links:
+    - url: red.ht/rh1ctf
+      text: Red Hat One CTF
     - url: https://redhat.com
-      text: Red Hat
+      text: red hat
